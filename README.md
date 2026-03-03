@@ -1,0 +1,1 @@
+This project is for the automation of taking Transition Manager Downloads which will have a complete inventory of servers, and mapping the application names to the machines in order to create the appliacations and the dependencies which the applications run.
