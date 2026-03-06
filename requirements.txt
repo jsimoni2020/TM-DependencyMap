@@ -1,0 +1,9 @@
+pandas>=2.0
+pyarrow>=14.0       # parquet read/write
+rapidfuzz>=3.0      # fuzzy server name matching
+openpyxl>=3.0       # reading .xlsx inventory files (Device42)
+neo4j>=5.0          # Neo4j Python driver
+python-dotenv>=1.0  # load credentials from .env
+networkx>=3.0       # graph model, GraphML export, layout algorithms
+pyvis>=0.3          # interactive HTML export (vis.js wrapper)
+matplotlib>=3.7     # static PNG export
